@@ -1,6 +1,6 @@
-# README
+# HackBeanpot Backend
 
-The API for the HackBeanpot webapp.
+The API for the HackBeanpot webapp (experimental).
 
 Generated with this guide:
 https://edgeguides.rubyonrails.org/api_app.html
